@@ -1,7 +1,6 @@
 {
-    "name": "uglify-js",
-    "description": "JavaScript parser, mangler/compressor and beautifier toolkit",
-    "homepage": "http://lisperator.net/uglifyjs",
+    "name": "usagify-js",
+    "description": "JavaScript usagifier.",
     "main": "tools/node.js",
     "version": "2.4.14",
     "engines": { "node" : ">=0.4.0" },
@@ -12,7 +11,7 @@
     }],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mishoo/UglifyJS2.git"
+        "url": "https://github.com/hakatashi/UsagifyJS.git"
     },
     "dependencies": {
         "async"      : "~0.2.6",
